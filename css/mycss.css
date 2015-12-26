@@ -21,9 +21,10 @@ footer{
 	font-family: 'Bangers';
 	font-size: 30px;
 	color: white;
+	width: 50%;
 	position: fixed;
-    top: 75%; 
-    left: 36%;
+    top: 65%; 
+    left: 25%;
 }
 
 a{
