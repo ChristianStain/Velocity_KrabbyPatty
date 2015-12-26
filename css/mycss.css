@@ -1,7 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+
 body{
     padding: 0;
     margin: 0;
     overflow: hidden;
+}
+
+#background{
+	z-index: -1;
 }
 
 .centrar{
@@ -11,6 +17,15 @@ body{
     transform: translate(-50%, -50%);
 }
 
-#background{
-	z-index: -1;
+footer{
+	font-family: 'Bangers';
+	font-size: 30px;
+	color: white;
+	position: fixed;
+    top: 75%; 
+    left: 36%;
+}
+
+a{
+	color:yellow;
 }
